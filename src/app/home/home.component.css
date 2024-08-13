@@ -1,0 +1,13 @@
+.product {
+  padding: 10px;
+  border: 1px solid #000;
+  min-height: 500px
+}
+
+.image img{
+  height: 350px;
+}
+ p{
+  margin:0;
+  padding: 0;
+ }
